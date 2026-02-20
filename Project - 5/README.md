@@ -1,3 +1,14 @@
+![Uploading Screenshot 2026-02-20 150657.png…]()
+
+
+
+
+
+
+
+
+
+
 # 😊 Real-Time Facial Emotion Detection
 
 <p align="center">
