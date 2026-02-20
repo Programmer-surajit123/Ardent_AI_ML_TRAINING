@@ -27,7 +27,8 @@
 
 ## 📸 Demo
 
-"C:\Users\suraj\OneDrive\Desktop\Screenshot 2026-02-20 150657.png"
+![Uploading Screenshot 2026-02-20 150657.png…]()
+
 
 ---
 
