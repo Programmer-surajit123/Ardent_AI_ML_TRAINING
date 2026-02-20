@@ -1,4 +1,4 @@
-![Uploading Screenshot 2026-02-20 150657.png…]()
+
 
 
 
@@ -27,7 +27,7 @@
 
 ## 📸 Demo
 
-> Real-time detection of emotions directly from webcam or video input — with bounding boxes and emotion labels rendered on each detected face.
+![Uploading Screenshot 2026-02-20 150657.png…]()
 
 ---
 
