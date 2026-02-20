@@ -27,7 +27,8 @@
 
 ## 📸 Demo
 
-![Uploading Screenshot 2026-02-20 150657.png…]()
+<img width="582" height="470" alt="Screenshot 2026-02-20 150657" src="https://github.com/user-attachments/assets/7b7b48d2-f1e9-4cf5-904a-549b12b0c682" />
+
 
 
 ---
